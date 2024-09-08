@@ -1,1 +1,1 @@
- 
+PixelPeeker is a user-friendly image search engine webpage that quickly finds and displays relevant images. Built with HTML, CSS, and JavaScript, and powered by a smart API, it helps you find just what you need in a snap. 
