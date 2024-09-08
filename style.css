@@ -5,13 +5,20 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+    background: url("https://www.xmple.com/wallpaper/blue-black-gradient-linear-1920x1080-c2-00008b-000000-a-180-f-14.svg");
     color: white;
 }
 h1{
     text-align: center;
-    margin: 100px auto 50px;
+    margin: 200px auto 20px;
     font-weight:600;
+    font-size: 100px;
+}
+h2{
+    text-align: center;
+    margin: 40px auto 50px;
+    font-weight:500;
+    font-size: 50px;
 }
 form{
     width: 90%;
